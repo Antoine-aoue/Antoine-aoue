@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antoine
-- 👀 I’m interested in Android and native development
+- 👀 I’m interested in Android development and security
 - 🌱 I’m currently learning Kotlin
 - 📫 Reach me at `antoinesti2d@protonmail.com`.
 - 🔑 My PGP key is available at my repository [pgp](https://github.com/Antoine-aoue/pgp)
